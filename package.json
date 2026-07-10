@@ -55,7 +55,7 @@
     "glob": "^13.0.1",
     "neostandard": "^0.13.0",
     "tsx": "^4.20.3",
-    "typescript": "5.8.3"
+    "typescript": "7.0.2"
   },
   "optionalDependencies": {
     "@napi-rs/nice": "^1.0.4"
